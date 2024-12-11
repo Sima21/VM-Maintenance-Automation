@@ -1,0 +1,17 @@
+{
+    "scriptFile": "../src/functions/starttimerTrigger.js",
+    "bindings": [
+      {
+        "name": "myTimer",
+        "type": "timerTrigger",
+        "direction": "in",
+        "schedule": "0 */1 * * *" 
+      },
+      {
+        "name": "log",
+        "type": "logger",
+        "direction": "out"
+      }
+    ]
+  }
+  

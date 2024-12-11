@@ -1,0 +1,16 @@
+{
+  "name": "VM-Maintenance-Automation",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "@azure/arm-compute": "^22.1.0",
+    "@azure/functions": "^4.6.0",
+    "@azure/identity": "^4.5.0",
+    "@azure/storage-blob": "^12.26.0"
+  },
+  "main": "src/{index.js,functions/*.js}"
+}
