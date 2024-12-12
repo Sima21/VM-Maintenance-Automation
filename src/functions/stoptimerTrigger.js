@@ -4,7 +4,7 @@ const { DefaultAzureCredential } = require('@azure/identity');
 
 
 app.timer('stoptimerTrigger', {
-    schedule: '0 0 18 * * *', 
+    schedule: '15 12 * * *', 
     handler: async (myTimer, context) => {
         context.log('VM Stop Timer Trigger ausgeführt.');
         
