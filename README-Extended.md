@@ -7,10 +7,10 @@ Dieses Projekt dient der Automatisierung von Start- und Stopp-Prozessen für vir
 ## Schritte zur Umsetzung:
 
 ### 1. Erstellen einer Resource Group
-- Eine Resource Group mit dem Namen `rg-24-04-on-akhtari-afsar` wurde in Azure erstellt, um alle relevanten Ressourcen zu organisieren.
+- Eine Resource Group wurde in Azure erstellt, um alle relevanten Ressourcen zu organisieren.
 
 ### 2. Deployment eines Azure Storage Accounts
-- Ein Azure Storage Account `rg2404onakhtariafsa8200` wurde erstellt, um die Funktionalitäten der Azure Functions zu unterstützen.
+- Ein Azure Storage Account wurde erstellt, um die Funktionalitäten der Azure Functions zu unterstützen.
 - Die Zugriffsschlüssel (`Connection String`) wurden in der Konfiguration genutzt.
 
 ### 3. Entwicklung von Timer-basierten Azure Functions
@@ -52,9 +52,6 @@ Dieses Projekt dient der Automatisierung von Start- und Stopp-Prozessen für vir
 1. **Dashboard-Integration**:
    - Erstellung eines Dashboards zur Überwachung der VM-Performance und Ressourcennutzung.
    
-2. **Kostenüberwachung**:
-   - Nutzung des Azure Pricing Calculators zur Berechnung und Optimierung der Kosten.
-
 3. **Weiterentwicklung**:
    - Hinzufügen zusätzlicher Funktionen wie Benachrichtigungen bei Fehlern oder Abweichungen im Zeitplan.
 
@@ -65,6 +62,4 @@ Dieses Projekt dient der Automatisierung von Start- und Stopp-Prozessen für vir
 - **Visual Studio Code** mit Azure Functions Extension
 - **Node.js** (Version entsprechend der Azure Function Runtime)
 
----
 
-Mit dieser Dokumentation wird der gesamte Arbeitsprozess beschrieben, einschließlich der bewältigten Herausforderungen, um die Automatisierung der VM zu gewährleisten. Dieses Projekt ist ein wichtiger Schritt in der Nutzung von Azure zur Optimierung von Cloud-Ressourcen.
