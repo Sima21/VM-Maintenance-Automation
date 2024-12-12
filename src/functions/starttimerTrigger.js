@@ -3,7 +3,7 @@ const { ComputeManagementClient } = require('@azure/arm-compute');
 const { DefaultAzureCredential } = require('@azure/identity');
 
 app.timer('starttimerTrigger', {
-    schedule: '10 12 * * *', 
+    schedule: '0 8 * * *', 
     handler: async (myTimer, context) => {
         context.log('VM Start Timer Trigger ausgeführt.');
         
