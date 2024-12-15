@@ -11,7 +11,7 @@ Automatisierung der Wartung von Azure-VMs, die nur während der Geschäftszeiten
 
 1. **Repository klonen**:
     ```bash
-    git clone https://github.com/<deinGitHubName>/VM-Maintenance-Automation.git
+    git clone https://github.com/Sima21/VM-Maintenance-Automation.git
     ```
 
 2. **Azure Function App erstellen**:
