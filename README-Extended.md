@@ -33,7 +33,7 @@ Dieses Projekt dient der Automatisierung von Start- und Stopp-Prozessen für vir
 - **Application Insights** wurde aktiviert, um die Funktionalität und Leistung der Azure Functions zu überwachen.
 - Logs wurden analysiert, um Fehler und Probleme zu identifizieren.
 
-- ### 7. Kostenanalyse
+ ### 7. Kostenanalyse
 - Basierend auf den Daten und dem Kostenvergleich ist es finanziell vorteilhafter, in Automatisierungstechnologien zu investieren, da die langfristigen Einsparungen die anfänglichen Investitionskosten übersteigen. Automatisierung reduziert manuelle Eingriffe und optimiert Betriebsabläufe, was zu niedrigeren laufenden Kosten führt. Die genauen Zahlen aus den TCO-Kalkulationen unterstützen die Schlussfolgerung, dass Automatisierung eine kluge finanzielle Entscheidung für Unternehmen darstellt, die ihre Effizienz steigern und Betriebskosten senken möchten.
 
 
